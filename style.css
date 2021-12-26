@@ -178,14 +178,14 @@ h4 {
 }
 
 .price-container p {
-    color: #b3f3f3;
+    color: #fff;
     font-weight: var(--fw-light-200);
     font-size: 1rem;
     letter-spacing: 0.0125rem;
 }
 
 section.b > p {
-    color: #b3f3f3;
+    color: #fff;
     font-size: 0.99375rem;
     line-height: 0;
     padding-top: 0.78125rem;
@@ -290,9 +290,11 @@ ul {
         margin-top: 1.4375rem;
         margin-bottom: 0.9375rem;
     }
+    
+    /* ------------------ Section c ----------------- */
 
     ul {
-        color: #b3f3f3;
+        color: #fff;
     }
 }
 

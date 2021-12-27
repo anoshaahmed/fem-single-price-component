@@ -200,6 +200,7 @@ section.b .sec-b-a {
     padding-top: 0.84375rem;
     padding-bottom: 0.625rem;
     box-shadow: 0rem 0.5rem 1.125rem rgba(0, 0, 0, 0.2);
+    cursor: pointer;
 }
 
 section.b .sec-b-a a {
